@@ -3,7 +3,7 @@
 To view a deploye link -> **[click here](https://google-clone-by-pramod.netlify.app/)**.
 
 <p align="center"> 
-  <a href="https://ribhav-jain.github.io/portfolio" target="_blank">
+  <a href="https://google-clone-by-pramod.netlify.app/" target="_blank">
     <img width="1068" alt="Screenshot 2023-04-09 163532" src="https://user-images.githubusercontent.com/99544644/230769214-79ec2dfc-d200-43db-8239-3cc65ac15ffa.png">
     <hr>
 <img width="1075" alt="Screenshot 2023-04-09 163549" src="https://user-images.githubusercontent.com/99544644/230769216-4a89d328-8904-4276-b38a-10f823ee7d33.png">
